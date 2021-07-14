@@ -1,3 +1,6 @@
+# To view and test APIs click on the below swagger url
+https://hurry-hotel-springboot.herokuapp.com/swagger-ui.html
+
 List of APIs inside this application 
 
 i).Sign Up
