@@ -1,5 +1,5 @@
 # Web application URL 
-https://hurry-hotel.web.app/home
+https://hurry-hotel-app.web.app
 
 Please wait for few seconds after searching any hotel as sometimes backend service is slow/down on server
 # To view and test APIs click on the below swagger url
